@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class FindSumPairs {
 public:
     FindSumPairs(vector<int>& nums1, vector<int>& nums2) {

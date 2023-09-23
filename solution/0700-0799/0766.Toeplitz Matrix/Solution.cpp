@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     bool isToeplitzMatrix(vector<vector<int>>& matrix) {

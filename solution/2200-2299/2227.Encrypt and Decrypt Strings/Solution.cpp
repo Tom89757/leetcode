@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Encrypter {
 public:
     unordered_map<string, int> cnt;

@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class SeatManager {
 public:
     SeatManager(int n) {

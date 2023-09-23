@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 #include <semaphore.h>
 
 class H2O {

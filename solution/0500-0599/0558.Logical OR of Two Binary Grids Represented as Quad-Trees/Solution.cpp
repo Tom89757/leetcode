@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 /*
 // Definition for a QuadTree node.
 class Node {

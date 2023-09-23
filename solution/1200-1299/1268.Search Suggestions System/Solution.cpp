@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Trie {
 public:
     void insert(string& w, int i) {

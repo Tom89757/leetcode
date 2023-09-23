@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class SmallestInfiniteSet {
 public:
     unordered_set<int> black;

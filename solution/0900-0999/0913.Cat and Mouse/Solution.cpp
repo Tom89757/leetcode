@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 const int HOLE = 0;
 const int MOUSE_START = 1;
 const int CAT_START = 2;

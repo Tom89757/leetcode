@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int numberOfBeautifulIntegers(int low, int high, int k) {

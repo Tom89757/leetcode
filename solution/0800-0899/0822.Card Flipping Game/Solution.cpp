@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int flipgame(vector<int>& fronts, vector<int>& backs) {

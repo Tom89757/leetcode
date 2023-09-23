@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int maxSubArrayLen(vector<int>& nums, int k) {

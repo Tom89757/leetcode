@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int numMagicSquaresInside(vector<vector<int>>& grid) {

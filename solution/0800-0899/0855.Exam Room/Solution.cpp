@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 int N;
 
 int dist(const pair<int, int>& p) {

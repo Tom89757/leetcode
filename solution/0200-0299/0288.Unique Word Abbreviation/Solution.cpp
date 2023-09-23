@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class ValidWordAbbr {
 public:
     unordered_map<string, unordered_set<string>> words;

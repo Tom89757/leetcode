@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class ThroneInheritance {
 public:
     unordered_map<string, vector<string>> g;

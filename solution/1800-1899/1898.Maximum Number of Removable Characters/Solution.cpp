@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int maximumRemovals(string s, string p, vector<int>& removable) {

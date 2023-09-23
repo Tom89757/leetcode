@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     const int dirs[5] = {-1, 0, 1, 0, -1};

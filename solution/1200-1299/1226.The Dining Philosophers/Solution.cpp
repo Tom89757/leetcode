@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class DiningPhilosophers {
 public:
     using Act = function<void()>;

@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Codec {
 public:
     // Encodes a list of strings to a single string.

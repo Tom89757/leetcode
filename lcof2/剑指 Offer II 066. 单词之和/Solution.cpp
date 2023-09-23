@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class MapSum {
 public:
     unordered_map<string, int> data;

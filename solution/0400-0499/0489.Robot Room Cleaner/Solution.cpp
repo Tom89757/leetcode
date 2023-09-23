@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 /**
  * // This is the robot's control interface.
  * // You should not implement it, or speculate about its implementation

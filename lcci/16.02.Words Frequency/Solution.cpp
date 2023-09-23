@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class WordsFrequency {
 public:
     WordsFrequency(vector<string>& book) {

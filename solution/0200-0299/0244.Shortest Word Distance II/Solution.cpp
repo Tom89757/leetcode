@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class WordDistance {
 public:
     WordDistance(vector<string>& wordsDict) {

@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class CustomStack {
 public:
     CustomStack(int maxSize) {

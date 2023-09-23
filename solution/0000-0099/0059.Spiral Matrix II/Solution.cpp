@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     const int dirs[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};

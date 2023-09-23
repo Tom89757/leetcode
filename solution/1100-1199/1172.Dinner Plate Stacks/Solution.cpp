@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class DinnerPlates {
 public:
     DinnerPlates(int capacity) {

@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 using pis = pair<int, string>;
 
 class FoodRatings {

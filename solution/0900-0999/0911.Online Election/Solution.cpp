@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class TopVotedCandidate {
 public:
     vector<int> times;

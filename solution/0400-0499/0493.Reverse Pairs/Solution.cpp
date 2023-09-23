@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class BinaryIndexedTree {
 public:
     int n;

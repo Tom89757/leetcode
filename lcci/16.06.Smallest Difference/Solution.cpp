@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int smallestDifference(vector<int>& a, vector<int>& b) {

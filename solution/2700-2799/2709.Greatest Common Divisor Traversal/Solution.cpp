@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 int MX = 100010;
 vector<int> P[100010];
 

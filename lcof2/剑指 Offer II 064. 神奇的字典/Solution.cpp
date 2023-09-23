@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class MagicDictionary {
 public:
     /** Initialize your data structure here. */

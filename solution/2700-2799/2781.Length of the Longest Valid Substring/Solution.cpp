@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int longestValidSubstring(string word, vector<string>& forbidden) {

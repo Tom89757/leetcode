@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class MKAverage {
 public:
     MKAverage(int m, int k) {

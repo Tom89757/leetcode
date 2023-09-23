@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class SummaryRanges {
 private:
     map<int, vector<int>> mp;

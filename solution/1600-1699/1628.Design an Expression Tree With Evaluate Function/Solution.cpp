@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 /**
  * This is the interface for the expression tree Node.
  * You should not remove it, and you can define some classes to implement it.

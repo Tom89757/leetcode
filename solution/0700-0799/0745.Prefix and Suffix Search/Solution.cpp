@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class WordFilter {
 public:
     unordered_map<string, int> d;

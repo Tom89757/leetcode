@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int maxDivScore(vector<int>& nums, vector<int>& divisors) {

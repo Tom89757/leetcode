@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 bool vis[100][100][200];
 int dirs[3] = {1, 0, 1};
 

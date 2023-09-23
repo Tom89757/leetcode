@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int countKSubsequencesWithMaxBeauty(string s, int k) {

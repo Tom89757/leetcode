@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class RangeFreqQuery {
 public:
     unordered_map<int, vector<int>> mp;

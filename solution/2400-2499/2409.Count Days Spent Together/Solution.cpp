@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     vector<int> days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};

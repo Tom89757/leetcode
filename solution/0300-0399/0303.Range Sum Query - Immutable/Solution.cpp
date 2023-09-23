@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class NumArray {
 public:
     vector<int> s;

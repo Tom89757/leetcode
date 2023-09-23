@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 int N = 10020;
 int MOD = 1e9 + 7;
 long f[10020];

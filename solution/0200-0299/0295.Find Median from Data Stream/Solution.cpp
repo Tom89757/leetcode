@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class MedianFinder {
 public:
     /** initialize your data structure here. */

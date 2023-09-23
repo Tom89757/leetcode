@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int maxTastiness(vector<int>& price, vector<int>& tastiness, int maxAmount, int maxCoupons) {

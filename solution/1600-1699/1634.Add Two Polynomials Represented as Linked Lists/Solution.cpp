@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 /**
  * Definition for polynomial singly-linked list->
  * struct PolyNode {

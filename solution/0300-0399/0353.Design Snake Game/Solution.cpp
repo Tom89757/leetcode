@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class SnakeGame {
 public:
     SnakeGame(int width, int height, vector<vector<int>>& food) {

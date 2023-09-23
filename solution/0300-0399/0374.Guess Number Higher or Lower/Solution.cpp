@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 /**
  * Forward declaration of guess API.
  * @param  num   your guess

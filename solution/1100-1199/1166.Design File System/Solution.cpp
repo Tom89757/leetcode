@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Trie {
 public:
     unordered_map<string, Trie*> children;

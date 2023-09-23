@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     vector<int> closestRoom(vector<vector<int>>& rooms, vector<vector<int>>& queries) {

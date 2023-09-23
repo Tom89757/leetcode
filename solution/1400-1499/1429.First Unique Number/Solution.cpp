@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class FirstUnique {
 public:
     FirstUnique(vector<int>& nums) {

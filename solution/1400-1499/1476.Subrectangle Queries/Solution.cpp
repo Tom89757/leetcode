@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class SubrectangleQueries {
 public:
     vector<vector<int>> g;

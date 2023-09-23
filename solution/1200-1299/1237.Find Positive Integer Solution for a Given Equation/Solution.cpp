@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 /*
  * // This is the custom function interface.
  * // You should not implement it, or speculate about its implementation

@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int minTrioDegree(int n, vector<vector<int>>& edges) {
